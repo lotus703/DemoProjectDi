@@ -37,7 +37,7 @@ namespace DemoProjectDi.Controllers
             {
                 return StatusCode(500, new
                 {
-                    message = " ngu lz"
+                    message = "Fail"
                 });
             }
         }
